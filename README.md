@@ -22,7 +22,7 @@ Poseo una sólida experiencia en un amplio rango de tecnologías. Mis principale
     *   Desarrollo de APIs RESTful
     *   Pruebas Unitarias (PHPUnit)
     *   Contenedores (Docker - *opcional*: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>](https://www.docker.com/))
-    *   Despliegue en la Nube (AWS: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/>](https://aws.amazon.com/), Azure: [<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/>](https://azure.microsoft.com/en-in/), Heroku: [<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="30" height="30"/>](https://www.heroku.com/) - *opcional*)
+    *   Despliegue en la Nube (AWS: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/>](https://aws.amazon.com/), Azure: [<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/>](https://azure.microsoft.com/en-in/) - *opcional*)
 
 ## Proyectos Destacados
 
