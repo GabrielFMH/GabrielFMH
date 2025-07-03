@@ -54,4 +54,4 @@ Poseo una sólida experiencia en un amplio rango de tecnologías. Mis principale
 *   Correo Electrónico: [tu_correo@ejemplo.com]
 *   LinkedIn: [enlace_a_tu_linkedin]
 *   GitHub: [enlace_a_tu_github]
-*   Portafolio Web (opcional): [enlace_a_tu_portafolio]
+*   Portafolio Web (opcional): https://portafolio-vercel-lac.vercel.app/
