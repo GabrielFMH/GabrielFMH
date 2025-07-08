@@ -1,6 +1,12 @@
-# Gabriel - Desarrollador Web y BackEnd de aplicaciones 🇵🇪
+# Gabriel - Desarrollador Movil y Machine Learning
 
 ¡Hola! Soy Gabriel, un apasionado desarrollador full-stack residente en Perú. Me especializo en la creación de aplicaciones web robustas y eficientes, con un enfoque en el desarrollo tanto del front-end como del back-end, así como en el manejo de bases de datos.
+
+## Contacto
+
+*   Correo Electrónico: gabmelendez@upt.pe
+*   LinkedIn: https://www.linkedin.com/in/gabriel-melendez-huarachi-b87757212/
+*   Portafolio Web: https://portafolio-vercel-lac.vercel.app/
 
 ## Habilidades Clave / Especialización
 
@@ -49,9 +55,4 @@ Poseo una sólida experiencia en un amplio rango de tecnologías. Mis principale
     *   Periodo:
     *   Descripción de las responsabilidades y logros.
 
-## Contacto
 
-*   Correo Electrónico: [tu_correo@ejemplo.com]
-*   LinkedIn: [enlace_a_tu_linkedin]
-*   GitHub: [enlace_a_tu_github]
-*   Portafolio Web (opcional): https://portafolio-vercel-lac.vercel.app/
