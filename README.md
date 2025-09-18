@@ -29,6 +29,4 @@ Poseo una sólida experiencia en un amplio rango de tecnologías, con especial �
     *   Contenedores (Docker): [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>](https://www.docker.com/)
     *   Despliegue en la Nube (AWS, Azure): [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/>](https://aws.amazon.com/) [<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/>](https://azure.microsoft.com/en-in/)
 
-## Proyectos Destacados
-
 
