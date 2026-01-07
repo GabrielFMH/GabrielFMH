@@ -1,32 +1,45 @@
-# Gabriel - Especialista en Machine Learning y Desarrollo Móvil
+Python Backend Developer | Data Analyst
+👨‍💻 Acerca de mí
+Egresado de Ingeniería de Sistemas residente en Perú. Mi enfoque profesional ha evolucionado hacia la construcción de infraestructuras robustas en el Backend y el Análisis de Datos avanzado para la toma de decisiones estratégicas.
 
-¡Hola! Soy Gabriel, un apasionado desarrollador residente en Perú con una sólida base en el desarrollo full-stack, y un **foco creciente y especializado en Machine Learning y el Desarrollo de Aplicaciones Móviles**. Mi objetivo es crear soluciones innovadoras que aprovechen la inteligencia artificial y ofrezcan experiencias de usuario excepcionales en plataformas móviles.
+Me especializo en crear APIs de alto rendimiento con Python, diseñar pipelines de datos eficientes y transformar grandes volúmenes de información en insights accionables mediante visualización y Machine Learning.
 
-## Contacto
+📬 Contacto
+Email: gabmelendez@upt.pe
 
-*   Correo Electrónico: gabmelendez@upt.pe
-*   LinkedIn: https://www.linkedin.com/in/gabriel-melendez-huarachi-b87757212/
-*   Portafolio Web: https://portafolio-vercel-lac.vercel.app/
+LinkedIn: linkedin.com/in/gabriel-melendez-huarachi
 
-## Habilidades Clave / Especialización
+Portfolio: portafolio-vercel-lac.vercel.app
 
-Poseo una sólida experiencia en un amplio rango de tecnologías, con especial énfasis en mis áreas de interés principales:
+🛠 Stack Tecnológico y Especialización
+Backend Development
+Lenguajes: Python (Avanzado), TypeScript, PHP, C#
 
-*   **Machine Learning / Data Science:**
-    *   Python: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>](https://www.python.org) (TensorFlow, Keras, PyTorch, scikit-learn, Pandas, NumPy)
-    *   Conceptos: Modelado predictivo, procesamiento de lenguaje natural (NLP), visión por computadora, análisis de datos, desarrollo de modelos.
-    *   Despliegue de modelos: Construcción de APIs para servir modelos de ML.
-*   **Desarrollo Móvil:**
-    *   Frameworks: Flutter: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>](https://flutter.dev/) (o Android/iOS nativo si es tu enfoque)
-    *   Lenguajes: Dart (para Flutter), Kotlin/Java (para Android), Swift/Objective-C (para iOS)
-    *   UI/UX: Diseño y desarrollo de interfaces de usuario atractivas y responsivas.
-*   **Bases de Datos:**
-    *   SQL: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>](https://www.mysql.com/) (MySQL, PostgreSQL, SQL Server)
-    *   NoSQL: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/>](https://www.mongodb.com/) (MongoDB)
-*   **Otras Habilidades:**
-    *   Control de Versiones: [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="30" height="30"/>](https://git-scm.com/) (Git)
-    *   Desarrollo de APIs RESTful
-    *   Contenedores (Docker): [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30" height="30"/>](https://www.docker.com/)
-    *   Despliegue en la Nube (AWS, Azure): [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30" height="30"/>](https://aws.amazon.com/) [<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="30" height="30"/>](https://azure.microsoft.com/en-in/)
+Frameworks: FastAPI (Especialista), Web Services RESTful
 
+Herramientas: Arquitectura de Microservicios, Docker, Git/GitHub
+
+Data Science & Analytics
+Librerías: Pandas, NumPy, PyTorch, Scikit-learn
+
+IA Moderna: RAG (Retrieval-Augmented Generation), LangChain, Deep Learning
+
+BI & Visualización: Microsoft Power BI (Dynamic Reporting), ETL Processes
+
+Cloud & Infrastructure
+AWS: Academy Data Engineering, Cloud Data Pipeline Builder
+
+Huawei Cloud: Architecture and Technologies
+
+Networking: Cisco Networking (Addressing & Troubleshooting)
+
+🚀 Experiencia Reciente
+Modernización de Sistemas: Refactorización de código legacy para mejorar escalabilidad y rendimiento.
+
+Data Pipelines: Implementación de flujos de datos en entornos cloud.
+
+Business Intelligence: Creación de dashboards interactivos para análisis de KPIs institucionales.
+
+🌟 Habilidades Personales
+Proactivo, orientado al liderazgo técnico y apasionado por resolver problemas complejos mediante tecnología.
 
