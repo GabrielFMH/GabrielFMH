@@ -1,45 +1,46 @@
-Python Backend Developer | Data Analyst
-👨‍💻 Acerca de mí
-Egresado de Ingeniería de Sistemas residente en Perú. Mi enfoque profesional ha evolucionado hacia la construcción de infraestructuras robustas en el Backend y el Análisis de Datos avanzado para la toma de decisiones estratégicas.
+# Gabriel Melendez Huarachi
+### Python Backend Developer | Data Analyst
 
-Me especializo en crear APIs de alto rendimiento con Python, diseñar pipelines de datos eficientes y transformar grandes volúmenes de información en insights accionables mediante visualización y Machine Learning.
+> Egresado de Ingeniería de Sistemas con base en Tacna, Perú. Especializado en infraestructuras backend robustas y transformación de datos en decisiones estratégicas.
 
-📬 Contacto
-Email: gabmelendez@upt.pe
+---
 
-LinkedIn: linkedin.com/in/gabriel-melendez-huarachi
+### 👨‍💻 Acerca de mí
+- **Backend focus**: Construcción de APIs de alto rendimiento y microservicios.
+- **Data focus**: Diseño de pipelines ETL, visualización avanzada y modelos de Machine Learning.
+- **IA Moderna**: Implementación de arquitecturas RAG y soluciones con LangChain.
 
-Portfolio: portafolio-vercel-lac.vercel.app
+---
 
-🛠 Stack Tecnológico y Especialización
-Backend Development
-Lenguajes: Python (Avanzado), TypeScript, PHP, C#
+### 🛠 Stack Tecnológico
 
-Frameworks: FastAPI (Especialista), Web Services RESTful
+**Backend & Cloud**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Herramientas: Arquitectura de Microservicios, Docker, Git/GitHub
+**Data Science & AI**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
-Data Science & Analytics
-Librerías: Pandas, NumPy, PyTorch, Scikit-learn
+**Otros lenguajes:** TypeScript | PHP | C# | SQL
 
-IA Moderna: RAG (Retrieval-Augmented Generation), LangChain, Deep Learning
+---
 
-BI & Visualización: Microsoft Power BI (Dynamic Reporting), ETL Processes
+### 🚀 Experiencia & Impacto
+* **Modernización Core**: Refactorización de sistemas legacy incrementando escalabilidad.
+* **Data Engineering**: Implementación de flujos de datos automatizados en la nube.
+* **Business Intelligence**: Desarrollo de dashboards interactivos para KPIs institucionales.
 
-Cloud & Infrastructure
-AWS: Academy Data Engineering, Cloud Data Pipeline Builder
+---
 
-Huawei Cloud: Architecture and Technologies
+### 📬 Conectemos
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-melendez-huarachi)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Black?style=flat&logo=vercel)](https://portafolio-vercel-lac.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabmelendez@upt.pe)
 
-Networking: Cisco Networking (Addressing & Troubleshooting)
-
-🚀 Experiencia Reciente
-Modernización de Sistemas: Refactorización de código legacy para mejorar escalabilidad y rendimiento.
-
-Data Pipelines: Implementación de flujos de datos en entornos cloud.
-
-Business Intelligence: Creación de dashboards interactivos para análisis de KPIs institucionales.
-
-🌟 Habilidades Personales
-Proactivo, orientado al liderazgo técnico y apasionado por resolver problemas complejos mediante tecnología.
-
+---
+*Proactivo, orientado al liderazgo técnico y apasionado por resolver problemas complejos.*
