@@ -1,39 +1,39 @@
 # Gabriel Melendez Huarachi
-### Python Backend Developer | Data Analyst
+### Backend Developer | Data Analyst
 
-> Bachiller de Ingeniería de Sistemas con base en Tacna, Perú. Especializado en infraestructuras backend robustas y transformación de datos en decisiones estratégicas.
+> Bachiller de Ingeniería de Sistemas basado en Tacna, Perú. Especializado en el desarrollo de arquitecturas backend robustas, mantenimiento de sistemas ERP y transformación de datos en decisiones estratégicas.
 
 ---
 
 ### 👨‍💻 Acerca de mí
-- **Backend focus**: Construcción de APIs de alto rendimiento y microservicios.
-- **Data focus**: Diseño de pipelines ETL, visualización avanzada y modelos de Machine Learning.
-- **IA Moderna**: Implementación de arquitecturas RAG y soluciones con LangChain.
+- **Backend focus**: Mantenimiento de software empresarial, modernización de sistemas legacy y optimización de lógica de negocio.
+- **Data focus**: Gestión de bases de datos relacionales, diseño de flujos ETL y creación de soluciones de Business Intelligence.
+- **Cloud & Infra**: Implementación de pipelines de datos y despliegue de infraestructura en la nube (AWS/Huawei).
 
 ---
 
 ### 🛠 Stack Tecnológico
 
-**Backend & Cloud**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+**Backend & Frameworks**
+![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Data Analysis & Databases**
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Data Science & AI**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-
-**Otros lenguajes:** TypeScript | PHP | C# | SQL
+**Herramientas:** Git | GitHub | CI/CD | T-SQL | Linux
 
 ---
 
 ### 🚀 Experiencia & Impacto
-* **Modernización Core**: Refactorización de sistemas legacy incrementando escalabilidad.
-* **Data Engineering**: Implementación de flujos de datos automatizados en la nube.
-* **Business Intelligence**: Desarrollo de dashboards interactivos para KPIs institucionales.
+* **Optimización ERP**: Mejora continua de sistemas críticos empresariales mediante .NET y SQL Server.
+* **Modernización Core**: Refactorización de sistemas legacy PHP para incrementar el rendimiento y seguridad.
+* **Business Intelligence**: Desarrollo de dashboards interactivos para el monitoreo estratégico de KPIs institucionales.
 
 ---
 
@@ -43,4 +43,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabmelendez@upt.pe)
 
 ---
-*Proactivo, orientado al liderazgo técnico y apasionado por resolver problemas complejos.*
+*Proactivo, orientado al liderazgo técnico y apasionado por resolver problemas complejos mediante la ingeniería de datos.*
