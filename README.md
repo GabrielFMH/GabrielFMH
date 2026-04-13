@@ -1,7 +1,7 @@
 # Gabriel Melendez Huarachi
 ### Python Backend Developer | Data Analyst
 
-> Egresado de Ingeniería de Sistemas con base en Tacna, Perú. Especializado en infraestructuras backend robustas y transformación de datos en decisiones estratégicas.
+> Bachiller de Ingeniería de Sistemas con base en Tacna, Perú. Especializado en infraestructuras backend robustas y transformación de datos en decisiones estratégicas.
 
 ---
 
