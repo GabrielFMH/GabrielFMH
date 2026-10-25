@@ -1,39 +1,42 @@
 # Gabriel Melendez Huarachi
-### Backend Developer | Data Analyst
+### Full Stack Developer | C# · .NET · SQL Server · Angular · IA Agéntica
 
-> Bachiller de Ingeniería de Sistemas basado en Tacna, Perú. Especializado en el desarrollo de arquitecturas backend robustas, mantenimiento de sistemas ERP y transformación de datos en decisiones estratégicas.
+> Bachiller de Ingeniería de Sistemas, Tacna, Perú. Desarrollo de aplicaciones full stack con .NET y Angular, modelado y optimización de bases de datos SQL Server, e integración de agentes de IA en flujos de trabajo reales.
 
 ---
 
 ### 👨‍💻 Acerca de mí
-- **Backend focus**: Mantenimiento de software empresarial, modernización de sistemas legacy y optimización de lógica de negocio.
-- **Data focus**: Gestión de bases de datos relacionales, diseño de flujos ETL y creación de soluciones de Business Intelligence.
-- **Cloud & Infra**: Implementación de pipelines de datos y despliegue de infraestructura en la nube (AWS/Huawei).
+- **Backend**: APIs y lógica de negocio en C# y .NET, con foco en mantenibilidad y rendimiento.
+- **Frontend**: Interfaces empresariales con Angular y TypeScript.
+- **Base de datos**: Diseño de esquemas, consultas T-SQL y optimización en SQL Server.
+- **IA agéntica**: Diseño de agentes que automatizan tareas, consumen herramientas y apoyan procesos de desarrollo.
 
 ---
 
 ### 🛠 Stack Tecnológico
 
-**Backend & Frameworks**
-![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+**Backend**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+**Frontend**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-**Data Analysis & Databases**
+**Base de datos**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**Herramientas:** Git | GitHub | CI/CD | T-SQL | Linux
+**IA**
+![IA Agéntica](https://img.shields.io/badge/IA%20Ag%C3%A9ntica-000000?style=for-the-badge&logo=openai&logoColor=white)
+
+**Herramientas:** Git | GitHub | CI/CD | T-SQL
 
 ---
 
 ### 🚀 Experiencia & Impacto
-* **Optimización ERP**: Mejora continua de sistemas críticos empresariales mediante .NET y SQL Server.
-* **Modernización Core**: Refactorización de sistemas legacy PHP para incrementar el rendimiento y seguridad.
-* **Business Intelligence**: Desarrollo de dashboards interactivos para el monitoreo estratégico de KPIs institucionales.
+* **Desarrollo full stack**: Aplicaciones empresariales de extremo a extremo con .NET en el backend y Angular en el frontend.
+* **Optimización de SQL Server**: Diseño de consultas, índices y procedimientos almacenados para sistemas críticos.
+* **IA agéntica**: Creación de agentes y flujos automatizados que integran modelos de lenguaje con herramientas y APIs internas.
 
 ---
 
@@ -43,4 +46,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gabmelendez@upt.pe)
 
 ---
-*Proactivo, orientado al liderazgo técnico y apasionado por resolver problemas complejos mediante la ingeniería de datos.*
+*Desarrollador orientado a resultados, con enfoque en arquitecturas limpias y en la aplicación práctica de la IA agéntica.*
