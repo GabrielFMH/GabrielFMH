@@ -9,7 +9,6 @@
 - **Backend**: APIs y lógica de negocio en C# y .NET, con foco en mantenibilidad y rendimiento.
 - **Frontend**: Interfaces empresariales con Angular y TypeScript.
 - **Base de datos**: Diseño de esquemas, consultas T-SQL y optimización en SQL Server.
-- **IA agéntica**: Diseño de agentes que automatizan tareas, consumen herramientas y apoyan procesos de desarrollo.
 
 ---
 
