@@ -1,5 +1,5 @@
 # Gabriel Melendez Huarachi
-### Full Stack Developer | C# · .NET · SQL Server · Angular · IA Agéntica
+### Full Stack Developer | C# · .NET · SQL Server · Angular
 
 > Bachiller de Ingeniería de Sistemas, Tacna, Perú. Desarrollo de aplicaciones full stack con .NET y Angular, modelado y optimización de bases de datos SQL Server, e integración de agentes de IA en flujos de trabajo reales.
 
@@ -26,9 +26,6 @@
 **Base de datos**
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
-**IA**
-![IA Agéntica](https://img.shields.io/badge/IA%20Ag%C3%A9ntica-000000?style=for-the-badge&logo=openai&logoColor=white)
-
 **Herramientas:** Git | GitHub | CI/CD | T-SQL
 
 ---
@@ -36,7 +33,6 @@
 ### 🚀 Experiencia & Impacto
 * **Desarrollo full stack**: Aplicaciones empresariales de extremo a extremo con .NET en el backend y Angular en el frontend.
 * **Optimización de SQL Server**: Diseño de consultas, índices y procedimientos almacenados para sistemas críticos.
-* **IA agéntica**: Creación de agentes y flujos automatizados que integran modelos de lenguaje con herramientas y APIs internas.
 
 ---
 
